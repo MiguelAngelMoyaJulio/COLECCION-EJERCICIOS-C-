@@ -4,10 +4,7 @@
     <projectFile>E6.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb4f072-d18e-47ed-8a13-ca9faea064e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.E6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.E6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="8fb4f072-d18e-47ed-8a13-ca9faea064e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666722440501</updated>
-      <workItem from="1666722447524" duration="144000" />
+      <workItem from="1666722447524" duration="210000" />
     </task>
     <servers />
   </component>
