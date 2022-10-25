@@ -2,6 +2,10 @@
 
 namespace E6
 {
+    /**
+     * Se ingresa un valor numérico entero n, se pide desarrollar un
+     * algoritmo que muestre por consola los primeros n números naturales
+     */
     internal class Program
     {
         public static void Main(string[] args)
